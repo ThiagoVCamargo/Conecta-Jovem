@@ -1,4 +1,4 @@
-*Olá! Sou o Thiago Vinicius de Camargo*
+# Olá! Sou o Thiago Vinicius de Camargo
 
 Minha foto: ../img/Foto.jpg (Professor do Elevar)
 
@@ -19,20 +19,17 @@ O que me motiva:
 - **Jogar Basquete**
 - **Usar redes sociais**
 - **Conversar**
-- ****
-- ****
+- **Assistir animaçôes**
+- **Desenhar**
 
 
-(Edite essa lista livremente — o objetivo é expressar rotina e interesses reais)
 
-Meus objetivos
+## Meus objetivos
 
-[Descreva um objetivo válido]
-
-[Liste 4 objetivos]
-[Liste 4 objetivos]
-[Liste 4 objetivos]
-[Liste 4 objetivos]
+- *1*
+- *2*
+- *3*
+- *4*
 
 
 Markdown e documentação digital
