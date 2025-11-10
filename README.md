@@ -1,20 +1,22 @@
 # Olá! Sou o Thiago Vinicius de Camargo
 
-Minha foto: ../img/Foto.jpg (Professor do Elevar)
+**Minha foto:** ../img/Foto.jpg 
 
-descriçao
+👋 *Olá! Eu sou o Thiago. Sou apaixonado por* **tecnologia** *e estou sempre em busca de* **novos aprendizados**.  
+*Gosto de explorar novas ideias, ferramentas e maneiras de aprimorar minhas habilidades.*
 
-## Sobre mim
+---
+## 💬Sobre mim
 
 - **Idade**: *14*
 - **Cidade**: *Sorocaba/SP*
-- **Personalidade**: 
-- **Interesses**: 
-O que me motiva:
+- **Personalidade**: calmo e precavido 
+- **O que me motiva**: *o fato de saber que se me esforçar agora
+ vou ser recompensado no futuro*
 
+---
 
-
-## O que gosto de fazer
+## 🌱O que gosto de fazer
 
 - **Jogar Basquete**
 - **Usar redes sociais**
@@ -22,15 +24,17 @@ O que me motiva:
 - **Assistir animaçôes**
 - **Desenhar**
 
+---
 
+## 🎯Meus objetivos
 
-## Meus objetivos
+- *Ter estabilidade financeira*
+- *Descobrir/Aprender coisas novas*
+- *Conquistar minhas próprias coisas*
+- *Trabalhar com algo que goste, e ganhando uma boa renda*
+- *Descobrir como utilizar a internet de uma forma que me ajude no futuro*
 
-- *1*
-- *2*
-- *3*
-- *4*
-
+---
 
 Markdown e documentação digital
 [Vamos fazer um link com nosso primeiro artigo] 
@@ -38,12 +42,9 @@ Markdown e documentação digital
 “Conceitos de cidadania e segurança online”
 “Conceitos de segurança da informação”
 
+## Uma frase que me representa
 
-(essas linhas podem ser adaptadas a qualquer fase do curso)
-
-Uma frase que me representa
-
-[Escolha uma frase e faça uma citação]
+**frase**
 
 Um pouco da minha identidade digital
 
@@ -51,9 +52,8 @@ Um pouco da minha identidade digital
 
 (podem colocar uma imagem livre, um desenho próprio, ou até criar um avatar no Canva ou Bitmoji)
 
-Como me encontrar
+# Como me encontrar
 
-Opcional — somente se for autorizado pelo facilitador:
-E-mail de contato: [opcional]
-Me encontre no GitHub como [@usuario](https://github.com/usuario)
+**E-mail de contato:thiago.vini.camargo7@gmail.com**
+Me encontre no GitHub como [@ThiagoVCamargo](https://github.com/usuario)
 
