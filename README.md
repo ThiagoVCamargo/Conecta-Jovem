@@ -44,9 +44,8 @@ Markdown e documentação digital
 
 ## Uma frase que me representa
 
-**frase**
+**A sua grandeza está no tamanho do que você ousa buscar**
 
-Um pouco da minha identidade digital
 
 [Gera no chat gpt uma imagem sua] Imagem ou avatar opcional: ./img/avatar.png
 
