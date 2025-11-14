@@ -10,7 +10,7 @@
 
 - **Idade**: *14*
 - **Cidade**: *Sorocaba/SP*
-- **Personalidade**: calmo e precavido 
+- **Personalidade**: *calmo e precavido* 
 - **O que me motiva**: *o fato de saber que se me esforçar agora
  vou ser recompensado no futuro*
 
