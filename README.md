@@ -1,6 +1,6 @@
 # Olá! Sou o Thiago Vinicius de Camargo
 
-![Minha foto](img/Captura%20de%20tela%202025-06-06%20105844.png)
+![Minha foto]()
 
 👋 *Olá! Eu sou o Thiago. Sou apaixonado por* **tecnologia** *e estou sempre em busca de* **novos aprendizados**.  
 *Gosto de explorar novas ideias, ferramentas e maneiras de aprimorar minhas habilidades.*
@@ -44,8 +44,8 @@ Markdown e documentação digital
 
 ## Uma frase que me representa
 
-**A sua grandeza está no tamanho do que você ousa buscar**
-
+*A sua grandeza está no tamanho do que você ousa buscar*
+--- 
 
 [Gera no chat gpt uma imagem sua] Imagem ou avatar opcional: ./img/avatar.png
 
