@@ -1,6 +1,6 @@
 # Olá! Sou o Thiago Vinicius de Camargo
 
-![Minha foto]()
+<img src="img/thiago.png" width="250">
 
 👋 *Olá! Eu sou o Thiago. Sou apaixonado por* **tecnologia** *e estou sempre em busca de* **novos aprendizados**.  
 *Gosto de explorar novas ideias, ferramentas e maneiras de aprimorar minhas habilidades.*
