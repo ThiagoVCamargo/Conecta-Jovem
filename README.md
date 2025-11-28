@@ -36,15 +36,16 @@
 
 ---
 
-Markdown e documentação digital
-[Vamos fazer um link com nosso primeiro artigo] 
-“Como usar o GitHub para criar e compartilhar ideias”
-“Conceitos de cidadania e segurança online”
-[Conceitos de segurança da informação](https://github.com/ThiagoVCamargo/Conecta-Jovem/blob/main/artigos/seguran%C3%A7a%20digital.md)
+## Markdown e documentação digital
+- [Vamos fazer um link com nosso primeiro artigo] 
+- “Como usar o GitHub para criar e compartilhar ideias”
+- “Conceitos de cidadania e segurança online”
+- [Conceitos de segurança da informação](https://github.com/ThiagoVCamargo/Conecta-Jovem/blob/main/artigos/seguran%C3%A7a%20digital.md)
 
 ## Uma frase que me representa
 
-*A sua grandeza está no tamanho do que você ousa buscar*
+
+ *A sua grandeza está no tamanho do que você ousa buscar*
 --- 
 
 [Gera no chat gpt uma imagem sua] Imagem ou avatar opcional: ./img/avatar.png
