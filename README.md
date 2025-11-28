@@ -36,7 +36,7 @@
 
 ---
 
-## Markdown e documentação digital
+## Meus artigos
 - [Vamos fazer um link com nosso primeiro artigo] 
 - “Como usar o GitHub para criar e compartilhar ideias”
 - “Conceitos de cidadania e segurança online”
