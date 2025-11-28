@@ -40,7 +40,7 @@ Markdown e documentação digital
 [Vamos fazer um link com nosso primeiro artigo] 
 “Como usar o GitHub para criar e compartilhar ideias”
 “Conceitos de cidadania e segurança online”
-“Conceitos de segurança da informação”
+[Conceitos de segurança da informação](https://github.com/ThiagoVCamargo/Conecta-Jovem/blob/main/artigos/seguran%C3%A7a%20digital.md)
 
 ## Uma frase que me representa
 
